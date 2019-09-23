@@ -6,6 +6,8 @@ c++ 표준 입출력의 속도를 빠르게...!
 #include <iostream>
 #include <cstdio>
 #include <string>
+
+#include <bits/stdc++.h> //이것만 include 해줘도 전체 다 됨
 using namespace std;
 
 int main()
@@ -59,4 +61,22 @@ if (abs(a-b) < le-12)
 
 
 
-[출처](<https://blog.encrypted.gg/724?category=773649>)
+#### 배열과 연결리스트
+
+배열은 인덱스에 해당하는 원소를 빠르게 접근할 때, 데이터 자주 바꾸는 일 없을 때 유용
+
+데이터 쌓아두는 목적
+
+배열 전체를 특정 값으로 초기화 할 때 -> fill 함수를 이용하자
+
+
+
+벡터는 배열과는 다르게 크기를 조정할 수 있다.
+
+
+
+
+
+
+
+[출처]([https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98](https://blog.encrypted.gg/category/강좌/실전 알고리즘))
