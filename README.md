@@ -79,4 +79,4 @@ if (abs(a-b) < le-12)
 
 
 
-[출처](https://blog.encrypted.gg/category/강좌/실전 알고리즘)
+[출처](<https://blog.encrypted.gg/category/강좌/실전 알고리즘>)
